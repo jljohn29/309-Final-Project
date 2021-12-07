@@ -9,7 +9,7 @@ Players take turns dropping their token (red or yellow) into the top of the boar
 Changes:
 Our adaptation of Connect 4 follows all of the classic board game rules, and uses the 6 by 7 board.
 
-How to:
+How to: There are no software or system dependencies required to run this code. Just download and run. 
 
 
 Features:

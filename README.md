@@ -27,4 +27,4 @@ Check Win:
 Unlike the physical board game, the program will check the winner for the user after each turn.
 
 Status:
-Everything is working properly.
+Everything is working properly in debug mode, but errors may arise during running.
